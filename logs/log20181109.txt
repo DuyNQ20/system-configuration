@@ -1,0 +1,28 @@
+09:06 [Information] () 
+ Starting web host
+09:06 [Information] () User profile is available. Using '"C:\Users\anhnd\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:06 [Information] () Request starting HTTP/1.1 GET http://localhost:44366/swagger  
+09:06 [Information] () Request starting HTTP/1.1 DEBUG http://localhost:56122/  0
+09:06 [Information] () Request finished in 93.6186ms 200 
+09:06 [Information] () Request finished in 155.6695ms 301 application/json
+09:06 [Information] () Request starting HTTP/1.1 GET http://localhost:44366/swagger/index.html  
+09:06 [Information] () Request finished in 16.5722ms 200 text/html
+09:06 [Information] () Request starting HTTP/1.1 GET http://localhost:44366/swagger/swagger-ui-bundle.js  
+09:06 [Information] () Request starting HTTP/1.1 GET http://localhost:44366/swagger/swagger-ui.css  
+09:06 [Information] () Request starting HTTP/1.1 GET http://localhost:44366/robots.txt  
+09:06 [Information] () Request starting HTTP/1.1 GET http://localhost:44366/swagger/swagger-ui-standalone-preset.js  
+09:06 [Information] () Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+09:06 [Information] () Request finished in 230.1489ms 200 text/css
+09:06 [Information] () Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+09:06 [Information] () Request finished in 268.1433ms 200 application/javascript
+09:06 [Information] () Request finished in 517.1565ms 404 application/json
+09:06 [Information] () Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+09:06 [Information] () Request finished in 591.745ms 200 application/javascript
+09:06 [Information] () Request starting HTTP/1.1 GET http://localhost:44366/swagger/v1/swagger.json  
+09:06 [Information] () Request starting HTTP/1.1 GET http://localhost:44366/swagger/favicon-32x32.png  
+09:06 [Information] () Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"'
+09:06 [Information] () Request finished in 1.07ms 200 image/png
+09:06 [Information] () Request starting HTTP/1.1 GET http://localhost:44366/swagger/favicon-16x16.png  
+09:06 [Information] () Sending file. Request path: '"/favicon-16x16.png"'. Physical path: '"N/A"'
+09:06 [Information] () Request finished in 1.4381ms 200 image/png
+09:06 [Information] () Request finished in 406.8833ms 200 application/json;charset=utf-8
