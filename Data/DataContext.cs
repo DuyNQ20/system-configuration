@@ -19,5 +19,26 @@ namespace Configuration.Data
         
 
         public DbSet<Configuration.Models.File> Files { get; set; }
+        
+
+        public DbSet<Configuration.Models.SystemSetting> SystemSetting { get; set; }
+        
+
+        public DbSet<Configuration.Models.SystemSettingGroup> SystemSettingGroup { get; set; }
+        
+
+        public DbSet<Configuration.Models.PersonalSettingGroup> PersonalSettingGroup { get; set; }
+        
+
+        public DbSet<Configuration.Models.PersonalSettingGroupDescription> PersonalSettingGroupDescription { get; set; }
+        
+
+        public DbSet<Configuration.Models.PersonalSetting> PersonalSetting { get; set; }
+        
+
+        public DbSet<Configuration.Models.PersonalSettingDescription> PersonalSettingDescription { get; set; }
+        
+
+        public DbSet<Configuration.Models.UserSetting> UserSetting { get; set; }
     }
 }
